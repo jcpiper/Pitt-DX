@@ -1,0 +1,60 @@
+---
+layout: default
+---
+<article class="post">
+
+	<header class="post-header">
+		<h1 class="post-title">{{ page.bro }}</h1>
+	</header>
+	
+	<div class="post-content">
+		<table>
+			<!-- for brother pic, yr, major, and fun fact -->
+			{% if page.pic %}
+			<tr>
+				<td><image src="images/{{ page.pic }}.jpg" alt="{{page.bro}}"></td>
+			</tr>
+			{% endif %}
+			
+			{% if page.nickname %}
+			<tr>
+				<td>
+					Nickname: {{ page.nickname }}
+				</td>
+			</tr>
+			{% endif %}
+			
+			<tr>
+				<td>
+					Class of {{ page.yr }}
+				</td>
+			</tr>
+			<tr>
+				<td>
+					AM class: {{ page.am }}
+				</td>
+			</tr>
+			
+			{% if page.pos %}
+			<tr>
+				<td>
+					Postion: {{ page.pos }}
+				</td>
+			</tr>
+			{% endif %}
+			
+			<tr>
+				<td>
+					Major: {{ page.major  }}
+				</td>
+			</tr>			
+			
+		</table>
+		
+		<div>
+			Fun Fact: {{ content }}
+		</div>
+			
+	</div>
+	
+</article>
