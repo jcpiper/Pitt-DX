@@ -54,6 +54,7 @@ title: Brothers
 * [Eric Hyzny](/roster/hyzny/)
 * [Malcolm Juring](/roster/juring/)
 * [Yinan Kang](/roster/kang/)
+* [Tyler Kost](/roster/kost/)
 * [John Li](/roster/li/)
 * [Shemar Lyles](/roster/lyles/)
 * [Caleb Lynch](/roster/lynch/)
