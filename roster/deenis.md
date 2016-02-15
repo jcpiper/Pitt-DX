@@ -6,3 +6,4 @@ major: Finance and Accounting
 am: Psi
 nickname: Dongy
 ---
+He wants to become a lawyer.

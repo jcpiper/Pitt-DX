@@ -5,5 +5,5 @@ yr: 2018
 major: Actuarial Science
 am: Chi
 pos: Treasurer
-nickname: Fartz
 ---
+He hails from the Sunflower State.
