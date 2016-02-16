@@ -28,3 +28,5 @@ Faculty Advisor: [Cheryl Paul](mailto:"cheryl35@pitt.edu")
 
 Alumni Advisor: [Tim Corcoran](mailto:"corcorante@upmc.com")
 
+For any web/technical issues, please alert the Webmaster. [webmaster@pittdeltachi.com](mailto:"webmaster@pittdeltachi")
+
