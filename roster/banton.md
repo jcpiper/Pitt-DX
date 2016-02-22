@@ -6,3 +6,4 @@ major: Neuroscience
 am: Chi
 pos: Seargent at Arms
 ---
+His nickname is Josephine.

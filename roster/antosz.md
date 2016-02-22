@@ -3,5 +3,6 @@ layout: brother
 bro: Chris Antosz
 yr: 2016
 major: Chemical Engineering
-am: Upsilon
+am: Sigma
 ---
+He is in sigma class.

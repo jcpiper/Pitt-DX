@@ -6,3 +6,4 @@ major: Microbiology
 am: Phi
 nickname: Travy C
 ---
+He also eats socks.

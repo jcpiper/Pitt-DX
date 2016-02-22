@@ -6,3 +6,4 @@ major: Chemical Engineering
 am: Chi
 pos: Community Service Co-Chair
 ---
+He scratches himself in his sleep.

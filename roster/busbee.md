@@ -6,3 +6,4 @@ major: Finance
 am: Alpha Alpha
 nickname: Busbee
 ---
+He likes apples.

@@ -18,7 +18,7 @@ title: Brothers
 <!-- end of eboard -->
 
 * [Phil Anderson](/roster/phila/)
-* [Chris Antozs](/roster/antozs/)
+* [Chris Antosz](/roster/antosz/)
 * [Chris Averona](/roster/averona/)
 * [Matt Astbury](/roster/astbury/)
 * [Naran Babha](/roster/babha/)
