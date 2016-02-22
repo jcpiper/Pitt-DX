@@ -7,3 +7,4 @@ am: Chi
 nickname: Tubs
 pos: Regional Leadership Conference/Special Events Chair
 ---
+He claims his family invented the bath tub. Pretty much brought that nickname on himself.
