@@ -6,4 +6,4 @@ major: Biology
 am: Upsilon
 nickname: K
 ---
-Once broke a TV playing FIFA 2014.
+He once broke a TV playing FIFA 2014.
