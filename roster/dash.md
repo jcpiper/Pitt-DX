@@ -6,4 +6,4 @@ major: Molecular Biology
 am: Upsilon
 nickname: Sid
 ---
-He is not fond of white people.
+Voted for Donald Trump in the South Carolina primary.

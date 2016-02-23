@@ -6,4 +6,4 @@ major: Marketing
 am: Psi
 pos: Recruitment Chair
 ---
-He looks like the kind of person who likes 7/11 food.
+He is a professional candy cane counter.

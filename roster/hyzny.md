@@ -6,3 +6,4 @@ major: Biology, Chemistry
 am: Chi
 pos: Community Service Co-Chair
 ---
+He is too normal.
