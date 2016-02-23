@@ -6,3 +6,4 @@ major: Politics and Philosophy
 am: Chi
 nickname: Felipe Verde
 ---
+He chases geese for fun.

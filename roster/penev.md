@@ -6,3 +6,4 @@ major: Chemistry
 am: Upsilon
 nickname: Bobby, Booby
 ---
+He loves yard sales.

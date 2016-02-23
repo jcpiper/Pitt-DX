@@ -6,4 +6,4 @@ major: Bioengineering
 am: Chi
 nickname: Baumann
 ---
-Ask him about his fantasy team.
+He is good at fantasy football.

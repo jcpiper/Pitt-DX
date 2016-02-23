@@ -2,9 +2,9 @@
 layout: brother
 bro: Eric Hirschfeld
 yr: 2016
-major: Environmental Geology
-am: Transfer
+major: Environmental Geology, Environmental Studies
+am: Transfer Spring 2013
 pos: Junior Associate Member Counselor
 nickname: Hirsch
 ---
-He is from the Yukon.
+He has been chased by a bear before.

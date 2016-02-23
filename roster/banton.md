@@ -6,4 +6,4 @@ major: Neuroscience
 am: Chi
 pos: Seargent at Arms
 ---
-His nickname is Josephine.
+He only sleeps facing north because he thinks it improves his writing.
