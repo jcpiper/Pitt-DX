@@ -6,3 +6,4 @@ major: Chemical Engineering
 am: Psi
 pos: Philanthropy Chair
 ---
+He can eat 4 powdered donuts in 3 minutes without licking his lips.

@@ -6,3 +6,4 @@ major: Neuroscience
 am: Phi
 nickname: Fez
 ---
+He was once mistaken for Wilmer Valderrama at the grocery store.

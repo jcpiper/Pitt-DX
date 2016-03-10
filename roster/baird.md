@@ -6,3 +6,4 @@ major: Political Science and Philosophy
 am: Chi
 pos: Membership Development Chair
 ---
+He watches "Ancient Aliens" on the History Channel.

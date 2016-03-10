@@ -6,3 +6,4 @@ major: Marketing
 am: Psi
 pos: Recruitment Chair
 ---
+He is a professional candy cane counter.

@@ -7,3 +7,4 @@ am: Psi
 pos: Scholarship Co-Chair
 nickname: Grobart
 ---
+He has a picture of Brian Collins on his nightstand.
