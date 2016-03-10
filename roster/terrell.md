@@ -7,4 +7,4 @@ am: Psi
 pos: Parliamentarian
 nickname: Ed
 ---
-He is uncomfortably proud to tell others that the mitochondia is the powerhouse of the cell.
+He gets uncomfortably proud to tell others that the mitochondia is the powerhouse of the cell.

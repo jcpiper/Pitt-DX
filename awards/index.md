@@ -8,13 +8,7 @@ I'd have to make room in my mind by forgetting everything I ever memorized in Or
 Don't believe me? Just go ahead and take a look for yourself, 
 hot shot:
 
-* List
-* Dope
-* Ass
-* Awards
-* We've
-* Won
-* Here
+
 * [2006-2007 Awards](/awards/2006-2007/)
 * [2007-2008 Awards](/awards/2007-2008/)
 * [2008-2009 Awards](/awards/2008-2009/)
