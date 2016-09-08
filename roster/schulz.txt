@@ -1,7 +1,0 @@
----
-layout: brother
-bro: Andrew Schulz
-yr: 2017
-major: Molecular Biology
-am: Chi
----
